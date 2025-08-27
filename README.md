@@ -1,19 +1,4 @@
-<!-- ASCII Header -->
-<p align="center">
-<pre>
-      _______  _______  _______  _______  _______ 
-     (  ____ \(  ___  )(  ____ \(  ____ )(  ____ \
-     | (    \/| (   ) || (    \/| (    )|| (    \/
-     | |      | (___) || |      | (____)|| (_____ 
-     | |      |  ___  || |      |     __)(_____  )
-     | |      | (   ) || |      | (\ (         ) |
-     | (____/\| )   ( || (____/\| ) \ \__/\____) |
-     (_______/|/     \|(_______/|/   \__/\_______)
-
-           Minimal code, shaders, side projects
-</pre>
-</p>
-
+![ascii art](https://drive.google.com/file/d/1G8K7vZlIQhjh5uTrSqT8gaf7gPE2GdNL/view?usp=drivesdk)
 ---
 
 ### 👋 Hi, I'm Bikash  
@@ -33,7 +18,7 @@ I like making small, minimal tools that are functional and modern.
 - ⚡ React, Next.js, Tailwind CSS  
 - ⚡ Node.js, Express  
 - ⚡ MongoDB, Firebase  
-- ⚡ JavaScript, Python, C  
+- ⚡ JavaScript
 
 ---
 
@@ -44,8 +29,5 @@ I like making small, minimal tools that are functional and modern.
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/bikash1376V"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/bikash1376V" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bikash1376&show_icons=true&locale=en&layout=compact" alt="bikash1376" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bikash1376&show_icons=true&locale=en" alt="bikash1376" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bikash1376&" alt="bikash1376" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bikash1376&" al
