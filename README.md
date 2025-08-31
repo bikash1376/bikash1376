@@ -1,4 +1,6 @@
-![ascii art](https://drive.google.com/uc?export=download&id=1G8K7vZlIQhjh5uTrSqT8gaf7gPE2GdNL)
+<p align="center">
+  <img src="https://drive.google.com/uc?export=download&id=1G8K7vZlIQhjh5uTrSqT8gaf7gPE2GdNL" alt="ASCII Art" width="500"/>
+</p>
 
 ---
 
