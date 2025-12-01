@@ -1,12 +1,6 @@
-<p align="center">
-  <img src="https://drive.google.com/uc?export=download&id=1G8K7vZlIQhjh5uTrSqT8gaf7gPE2GdNL" alt="ASCII Art" width="400"/>
-</p>
-
----
-
 ### 👋 Hi, I'm Bikash  
 
-Exploring shaders and building focused side projects.  
+Exploring shaders and building side projects.  
 I like making small, minimal tools that are functional and modern.  
 
 ---
