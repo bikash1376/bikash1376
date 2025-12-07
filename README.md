@@ -6,8 +6,11 @@ I like making small, minimal tools that are functional and modern.
 ---
 
 ### 🔗 Projects
-- 🔹 [pistash.vercel.app](https://pistash.vercel.app) → minimal API client  
-- 🔹 [laggyfx.netlify.app](https://laggyfx.netlify.app) → customizable gradient generator (intentionally laggy)  
+
+-  [Pistash](https://pistash.vercel.app) → minimal API client  
+-  [Laggyfx](https://laggyfx.netlify.app) → customizable gradient generator (intentionally laggy)
+-  [Dropdawn](https://dropdawn.bksh.site/) - A transactonal ai chatapp with some extra tools. (development)
+-  [gitnor - CLI to generate .gitignore files](https://www.npmjs.com/package/gitnor)
 
 ---
 
