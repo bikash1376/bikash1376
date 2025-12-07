@@ -1,7 +1,13 @@
-### 👋 Hi, I'm Bikash  
+<h1 align="center">Bikash Sahu</h1>
 
-Exploring Open-Source projects.  
-I like making small, minimal tools that are functional and modern.  
+<h3 align="center">Exploring Open-Source projects. </h3>
+
+<p align="center">
+  <a href="https://x.com/bikash1376" target="_blank">twitter</a> •
+  <a href="https://www.linkedin.com/in/bikash1376" target="_blank">linkedin</a> •
+  <a href="https://github.com/bikash1376" target="_blank">github</a> •
+  <a href="mailto:bikash13763@gmail.com" target="_blank">email</a>
+</p>
 
 ---
 
@@ -17,10 +23,10 @@ I like making small, minimal tools that are functional and modern.
 ---
 
 ### Stack
--  React, React-native, Next.js, Tailwind CSS  
--  Node.js, Express  
--  MongoDB, Firebase, PostgreSQL, Docker 
--  JavaScript
+-  JavaScript, TypeScript React.js, React-native, Next.js, Tailwind CSS  
+-  Node.js, Express.js, FastAPI  
+-  MongoDB, Firebase, SQL, Redis
+-  Docker, Git
 
 ---
 
