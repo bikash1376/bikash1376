@@ -12,7 +12,7 @@
 ---
 
 ### Projects
-
+-  [Prepara](https://prepara.bksh.site) → Practice Test Platform
 -  [Interactive Map](https://interactive-map-eight-pi.vercel.app/) → Create interactive learning maps instantly by entering a topic
 -  [Screenshot](https://www.screenshot.bksh.site) → API service to capture website screenshots from any URL
 -  [Pistash](https://pistash.vercel.app) → Minimal API client  
