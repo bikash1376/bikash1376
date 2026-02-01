@@ -18,7 +18,8 @@
 -  [Pistash](https://pistash.vercel.app) → Minimal API client  
 -  [Laggyfx](https://laggyfx.netlify.app) → Gradient generator with intentional lag effects
 -  [Dropdawn](https://dropdawn.bksh.site) → An ai chatbot with tools and integrations. (development)
--  [M3U](https://m3u.bksh.site) → Live streaming IPTV channels 
+-  [M3U](https://m3u.bksh.site) → Live streaming IPTV channels
+-  [Echo-Toy](https://echo-toy.netlify.app) → Record and listen instantly
 -  [Gitnor](https://www.npmjs.com/package/gitnor) → CLI to generate .gitignore files (uses [official repo](https://github.com/github/gitignore))
 
 ---
