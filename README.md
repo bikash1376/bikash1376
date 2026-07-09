@@ -12,11 +12,12 @@
 ---
 
 ### Projects
+- [Sileo-android](https://github.com/bikash1376/sileo-androod) → Goeey notification island
+- [RevPDF](https://revpdf.in) → Minimal epub/pdf reader (coming soon on playstore)
 -  [Prepara](https://prepara.bksh.site) → Practice Test Platform
 -  [Interactive Map](https://interactive-map-eight-pi.vercel.app/) → Create interactive learning maps instantly by entering a topic
 -  [Dropdawn](https://dropdawn.bksh.site) → An ai chatbot with tools and integrations. (development)
 -  [Screenshot](https://www.screenshot.bksh.site) → API service to capture website screenshots from any URL
--  [Pistash](https://pistash.vercel.app) → Minimal API client  
 -  [Laggyfx](https://laggyfx.netlify.app) → Gradient generator with intentional lag effects
 -  [M3U](https://m3u.bksh.site) → Live streaming IPTV channels
 -  [Echo-Toy](https://echo-toy.netlify.app) → Record and listen instantly
