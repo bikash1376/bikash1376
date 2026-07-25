@@ -18,10 +18,10 @@
 -  [Rooms](https://github.com/bikash1376/rooms) → Interactive pixel space for AI agents (WIP)
 - [Konso](https://github.com/bikash1376/konso) → Chat interface for app automation (WIP)
 -  [Interactive Map](https://interactive-map-eight-pi.vercel.app/) → Create interactive learning maps instantly by entering a topic
--  [Dropdawn](https://dropdawn.bksh.site) → An ai chatbot with tools and integrations. (development)
--  [Screenshot](https://www.screenshot.bksh.site) → API service to capture website screenshots from any URL
+-  [Dropdawn](https://dropdawn.useiota.space) → An ai chatbot with tools and integrations. (development)
+-  [Screenshot](https://www.screenshot.useiota.space) → API service to capture website screenshots from any URL
 -  [Laggyfx](https://laggyfx.netlify.app) → Gradient generator with intentional lag effects
--  [M3U](https://m3u.bksh.site) → Live streaming IPTV channels
+-  [M3U](https://m3u.useiota.space) → Live streaming IPTV channels
 -  [Echo-Toy](https://echo-toy.netlify.app) → Record and listen instantly
 -  [Gitnor](https://www.npmjs.com/package/gitnor) → CLI to generate .gitignore files (uses [official repo](https://github.com/github/gitignore))
 
@@ -36,7 +36,7 @@
 ---
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/bikash1376V"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/bikash1376V" /></a></p><br><br>
+<p><a href="https://ko-fi.com/buzzy6695"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://ko-fi.com/buzzy6695" /></a></p><br><br>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bikash1376&" al
