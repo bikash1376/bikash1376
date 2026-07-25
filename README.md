@@ -12,7 +12,7 @@
 ---
 
 ### Projects
-- [Sileo-android](https://github.com/bikash1376/sileo-androod) → Goeey notification island
+- [Sileo-android](https://github.com/bikash1376/sileo-android) → Goeey notification island
 - [RevPDF](https://revpdf.in) → Minimal epub/pdf reader (coming soon on playstore)
 -  [Prepara](https://prepara.useiota.space) → Practice Test Platform
 -  [Rooms](https://github.com/bikash1376/rooms) → Interactive pixel space for AI agents (WIP)
