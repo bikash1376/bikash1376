@@ -14,7 +14,7 @@
 ### Projects
 - [Sileo-android](https://github.com/bikash1376/sileo-androod) → Goeey notification island
 - [RevPDF](https://revpdf.in) → Minimal epub/pdf reader (coming soon on playstore)
--  [Prepara](https://prepara.bksh.site) → Practice Test Platform
+-  [Prepara](https://prepara.useiota.space) → Practice Test Platform
 -  [Rooms](https://github.com/bikash1376/rooms) → Interactive pixel space for AI agents (WIP)
 - [Konso](https://github.com/bikash1376/konso) → Chat interface for app automation (WIP)
 -  [Interactive Map](https://interactive-map-eight-pi.vercel.app/) → Create interactive learning maps instantly by entering a topic
