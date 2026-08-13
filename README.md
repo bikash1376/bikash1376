@@ -12,13 +12,14 @@
 ---
 
 ### Projects
-- [Sileo-android](https://github.com/bikash1376/sileo-android) → Goeey notification island
+- [Trition](https://github.com/bikash1376/Trition) → A Notion-like workspace UI using Trello as a headless database
+- [Chat](https://github.com/bikash1376/chat) → A multi-tenant backend to create support chatbot by uploading docs
+- [Better Compnents](https://github.com/bikash1376/better-components) → A library of animated, copy-paste React components built using Next.js, React, Tailwind and motion (framer-motion)
+- [Sileo-android](https://github.com/bikash1376/sileo-android) →  Morph notification island (gooey)
 - [RevPDF](https://revpdf.in) → Minimal epub/pdf reader (coming soon on playstore)
 -  [Prepara](https://prepara.useiota.space) → Practice Test Platform
--  [Rooms](https://github.com/bikash1376/rooms) → Interactive pixel space for AI agents (WIP)
-- [Konso](https://github.com/bikash1376/konso) → Chat interface for app automation (WIP)
+- [Dropdawn](https://dropdawn.useiota.space) → An ai chatbot with tools and integrations. (development)
 -  [Interactive Map](https://interactive-map-eight-pi.vercel.app/) → Create interactive learning maps instantly by entering a topic
--  [Dropdawn](https://dropdawn.useiota.space) → An ai chatbot with tools and integrations. (development)
 -  [Screenshot](https://www.screenshot.useiota.space) → API service to capture website screenshots from any URL
 -  [Laggyfx](https://laggyfx.netlify.app) → Gradient generator with intentional lag effects
 -  [M3U](https://m3u.useiota.space) → Live streaming IPTV channels
@@ -31,7 +32,7 @@
 -  JavaScript, TypeScript React.js, React-native, Next.js, Tailwind CSS  
 -  Node.js, Express.js, FastAPI  
 -  MongoDB, Firebase, SQL, Redis
--  Docker, Git
+-  Docker, Git, Kubernetes
 
 ---
 
